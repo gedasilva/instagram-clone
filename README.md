@@ -3,5 +3,7 @@
 ### *Projeto do Bootcamp everis FullStack Developer*
 
 **Autor:** Gedalias da Silva
+
 **Linkedin:** gedalias
+
 **GitHub:** gedasilva
